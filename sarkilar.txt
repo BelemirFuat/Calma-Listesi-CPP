@@ -1,0 +1,121 @@
+No,Sarki,Sanatci
+1,Belki Üstümüzden Bir Kuş Geçer,Yüksek Sadakat
+2,Keşke,Yalın
+3,Nerdesin,Gece Yolcularý
+4,Yurtta Aþk Cihanda Aþk,Gülþen
+5,Aþkýn Ateþi,Hande Yener
+6,Sor,Serdar Ortaç
+7,Sarý Laleler,MFÖ
+8,Afedersin,Demet Akalýn
+9,Çakkýdý,Kenan Doðulu
+10,Herkes Hak Ettiði Gibi Yaþýyor,Demet Akalýn
+11,Gitme,Serdar Ortaç
+12,Afili Yalnýzlýk,Emre Aydýn
+13,Aþkým Baksana Bana,Nazan Öncel
+14,Hayýrdýr Ýnþallah,Yaþar
+15,Aþk Bitti,Keremcem
+16,Cennet,Ferhat Göçer
+17,Böyle Kahpedir Dünya,Gripin
+18,Bu Mudur?,Nil Karaibrahimgil
+19,Komple,Burak Kut
+20,Kibir,Hande Yener
+21,Ýndir,Mustafa Sandal
+22,Romeo,Hande Yener
+23,Tövbeliyim,Gökhan Özen
+24,Sükut-u Hayal,Nev
+25,Dan Sonra,Sýla & Kenan Doðulu
+26,Vay Anam Vay,Tarkan
+27,Kalp Kalbe Karþý,Aslý Güngör & Ferhat Göçer
+28,Mucize,Demet Akalýn
+29,Bizim Þarkýmýz,Ferhat Göçer
+30,Bas Gaza,Ýsmail YK
+31,Biri Bana Gelsin,Ferhat Göçer
+32,Þeytan,Serdar Ortaç
+33,Aþk-ý Virane,Rafet El Roman & Yusuf Güney
+34,Gram,Serdar Ortaç
+35,Anlamazdýn,Ayla Dikmen
+36,Kasaba,Murat Dalkýlýç
+37,Seviþmeden Uyumayalým,Sýla
+38,Seviyorum Sevmiyorum,Nil Karaibrahimgil
+39,Dünyanýn Sonuna Doðmuþum,Manga
+40,Giden Günlerim Oldu,Gülben Ergen & Oðuzhan Koç
+41,Ah Be Kardeþim,Yalýn
+42,Toz Pembe,Demet Akalýn
+43,Bu Böyle,Sertab Erener
+44,Ýki Melek,Bengü
+45,Limon Çiçekleri,Mustafa Ceceli
+46,Kocaman Öpüyorum,Bengü
+47,Çok Özlüyorum Seni,Gökhan Tepe
+48,Aþkýn Büyüsü,Zeynep Dizdar
+49,Bi' An Gel,Gülþen
+50,Geçmez Yara,Funda Arar
+51,Rüya,Ziynet Sali
+52,Dön,Mustafa Ceceli
+53,Ýki Medeni Ýnsan,Murat Boz & Soner Sarýkabadayý
+54,Bu Yaðmurlar,Emre Aydýn
+55,Durma Yaðmur Durma,Gripin
+56,Üzüm,Ferhat Göçer
+57,Tecrübe,Demet Akalýn
+58,Daha Erken,Gökhan Özen
+59,Koparýlan Çiçekler,Sertab Erener
+60,Bodrum,Hande Yener
+61,Alain Delon,Ozan Doðulu & Sýla
+62,Poþet,Serdar Ortaç
+63,Rengârenk,Sertab Erener
+64,Adýmý Kalbine Yaz,Tarkan
+65,Öp,Tarkan
+66,Acýsa da Öldürmez,Sýla
+67,Hoþçakal,Emre Aydýn
+68,Eksik,Mustafa Ceceli & Elvan Günaydýn
+69,Sen ve Ben,Funda Arar
+70,Budur,Atiye
+71,Yeni Biri,Gülþen
+72,Kafa,Sýla
+73,Direniyorum,Rafet El Roman
+74,Þýkýr Þýkýr,Gülben Ergen ve Mustafa Sandal
+75,Tuttu Fýrlattý,Gökçe
+76,Sözde Ayrýlýk,Gülþen
+77,Boþ Yere,Sýla
+78,Hep Yaþýn 19,MFÖ
+79,Geri Dönüþ Olsa,Murat Boz
+80,Oflaya Oflaya,Burcu Güneþ
+81,Kalamam Arkadaþ,Murat Boz
+82,Boþ Bardak,Fettah Can
+83,Es,Mustafa Ceceli
+84,Senden Sonra,Rafet El Roman
+85,Sudan Sebep,Emir
+86,Soðuk Odalar,Emre Aydýn ve Gülden Mutlu
+87,Bir Güzellik Yap,Murat Dalkýlýç
+88,Aþk Gitti Bizden,Ozan Çolakoðlu ve Tarkan
+89,Bitmesin,Gökhan Türkmen
+90,Beni Biraz Böyle Hatýrla,Emre Aydýn
+91,Daðýlmak Ýstiyorum,Ozan Doðulu ve Model
+92,Lüzumsuz Savaþ,Murat Dalkýlýç
+93,Olmasa da Olur,Yalýn
+94,Zor Sevdiðimden,Sýla
+95,Hasta,Hande Yener
+96,Yatcaz Kalkcaz Ordayým,Gülþen
+97,Ýyileþiyorum,Sertab Erener
+98,Yaralý,Bengü
+99,Teþekkür Ederim,Emre Kaya
+100,Aþk Nereden Nereye,Gripin
+101,Bir Hayli,Murat Dalkýlýç
+102,Kardan Adam,Gülþen
+103,Kutsal Toprak,Soner Sarýkabadayý
+104,Ya Ya Ya Ya,Hande Yener
+105,Kalbine Sürgün,Rafet El Roman & Ezo
+106,Sen,Gülben Ergen
+107,Tesir Altýnda,Mustafa Sandal
+108,Ýki Yeni Yabancý,Gökhan Özen
+109,Git,Ferhat Göçer
+110,Saygýmdan,Bengü
+111,Hafýza,Funda Arar & Enbe Orkestrasý
+112,Vaziyetler,Sýla
+113,Zorun Ne Sevgilim,Ýrem Derici
+114,Çatý Katý,Gökhan Türkmen
+115,Ýltimas,Gülþen & Murat Boz
+116,Hadi O Zaman,Nazan Öncel ft. Tarkan
+117,Ýlahi Adalet,Demet Akalýn
+118,Yara Bandý,Soner Sarýkabadayý
+119,Yabancý,Sýla
+120,Hop De,Tarkan ft. Ýskender Paydaþ
